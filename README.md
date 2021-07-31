@@ -22,6 +22,18 @@ Además es posible adicionar **ExpressionDebugger** para poder debuggear dentro 
 Fuente: [Nick Chapsas](https://www.youtube.com/watch?v=UIslFVEHkzA")
 
 
+### Invocar API del PoC
+
+ http://localhost:5069/Product
+
+```json
+ {
+  "crypt":"clave-del-producto",	
+  "name": "nombre-de-producto",
+  "description": "descripción-del-producto"
+}
+```
+
 ### Documentación
 * https://github.com/MapsterMapper/Mapster
 
