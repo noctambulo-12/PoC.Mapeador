@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31507.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoC.Mapeador.AutoMapper", "PoC.Mapeador.AutoMapper\PoC.Mapeador.AutoMapper.csproj", "{A7B8DAEA-752A-43FD-8A66-548C19588B11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoC.Mapeador.Mapster", "PoC.Mapeador.Mapster\PoC.Mapeador.Mapster.csproj", "{FEEC06B2-88E9-4CBA-897A-D3AA6DD0C3BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7B8DAEA-752A-43FD-8A66-548C19588B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B8DAEA-752A-43FD-8A66-548C19588B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B8DAEA-752A-43FD-8A66-548C19588B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B8DAEA-752A-43FD-8A66-548C19588B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEEC06B2-88E9-4CBA-897A-D3AA6DD0C3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEC06B2-88E9-4CBA-897A-D3AA6DD0C3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEC06B2-88E9-4CBA-897A-D3AA6DD0C3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEC06B2-88E9-4CBA-897A-D3AA6DD0C3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A38BD97F-CC16-4200-821C-F5ABCA7953C5}
+	EndGlobalSection
+EndGlobal
